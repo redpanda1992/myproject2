@@ -1,0 +1,40 @@
+#myproject {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.national {
+    font-weight: bold;
+}
+
+.about, .font1, .font2 {
+    font-family: 'Dancing Script', cursive;
+}
+
+.container-footer {
+    background-color: rgb(67, 83, 52);
+}
+
+.container-contact {
+    background-color: rgb(158, 179, 132);
+    font-family: 'Karla', sans-serif;
+}
+
+.container-album, .container-what {
+    background-color: rgb(206, 222, 189);
+}
+
+.container-fluid, .about{
+    background-color:  rgb(250, 241, 228);
+}
+
+.card-text {
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Dancing Script', cursive;
+}
+
+a {
+    text-decoration-line: none;
+}
